@@ -1,0 +1,99 @@
+2019-02-14 16:13:18,326 INFO  [StagemfcsellPage] Website opened 
+2019-02-14 16:13:19,607 INFO  [StagemfcsellPage] Selected City Name as Bangalore 
+2019-02-14 16:13:22,435 INFO  [StagemfcsellPage] Year Entered as : 2018 
+2019-02-14 16:13:24,691 INFO  [StagemfcsellPage] Make Entered as : ASTON MARTIN 
+2019-02-14 16:13:26,860 INFO  [StagemfcsellPage] Model Entered as : DB 11 
+2019-02-14 16:13:26,939 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-02-14 16:13:29,169 INFO  [StagemfcsellPage] Variant Entered as : EVOLUTION 
+2019-02-14 16:13:31,429 INFO  [StagemfcsellPage] Kilometers Entered as : less than 10,000 
+2019-02-14 16:13:33,738 INFO  [StagemfcsellPage] Selected City as : chennai 
+2019-02-14 16:13:33,802 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-02-14 16:13:35,904 INFO  [StagemfcsellPage] Entered Mobile is : 9742721634 
+2019-02-14 16:13:37,995 INFO  [StagemfcsellPage] Entered Full Name as : sunil 
+2019-02-14 16:13:40,105 INFO  [StagemfcsellPage] Entered Email ID as : test@gmail.com 
+2019-02-14 16:13:54,962 INFO  [StagemfcsellPage] Clicked on Submit Button 
+2019-02-14 16:13:55,338 INFO  [StagemfcsellPage] All snapshot's were saved in File Location E:\software\screenshot folder 
+2019-02-14 16:13:55,616 INFO  [StagemfcsellPage] Test Result is saved in E:\software\DataDriven.xlsx 
+2019-02-14 16:13:55,621 INFO  [StagemfcsellPage] GOING TO NEXT LOOP AND ENTERING THE NEXT DATA GIVEN IN EXCEL SHEET. 
+2019-02-14 17:11:13,087 INFO  [StagemfcsellPage] Website opened 
+2019-02-19 12:21:55,680 INFO  [StagemfcsellPage] navigated to URL 
+2019-02-25 14:58:49,153 INFO  [StagemfcsellPage] Website opened 
+2019-03-22 16:25:10,711 INFO  [StagemfcsellPage] Website opened 
+2019-03-22 16:25:11,462 INFO  [StagemfcsellPage] Selected City Name as Bangalore 
+2019-03-22 16:25:14,670 INFO  [StagemfcsellPage] Year Entered as : 2018 
+2019-03-22 16:25:16,935 INFO  [StagemfcsellPage] Make Entered as : ASTON MARTIN 
+2019-03-22 16:25:19,165 INFO  [StagemfcsellPage] Model Entered as : DB 11 
+2019-03-22 16:25:19,261 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-03-22 16:25:21,516 INFO  [StagemfcsellPage] Variant Entered as : EVOLUTION 
+2019-03-22 16:25:23,794 INFO  [StagemfcsellPage] Kilometers Entered as : less than 10,000 
+2019-03-22 16:25:26,141 INFO  [StagemfcsellPage] Selected City as : chennai 
+2019-03-22 16:25:26,231 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-03-22 16:25:28,357 INFO  [StagemfcsellPage] Entered Mobile is : 9742721634 
+2019-03-22 16:25:30,453 INFO  [StagemfcsellPage] Entered Full Name as : sunil 
+2019-03-22 16:25:32,583 INFO  [StagemfcsellPage] Entered Email ID as : test@gmail.com 
+2019-03-22 16:25:51,789 INFO  [StagemfcsellPage] Clicked on Submit Button 
+2019-03-22 16:25:52,162 INFO  [StagemfcsellPage] All snapshot's were saved in File Location E:\software\screenshot folder 
+2019-03-22 16:25:52,393 INFO  [StagemfcsellPage] Test Result is saved in E:\software\DataDriven.xlsx 
+2019-03-22 16:25:52,408 INFO  [StagemfcsellPage] GOING TO NEXT LOOP AND ENTERING THE NEXT DATA GIVEN IN EXCEL SHEET. 
+2019-04-26 17:43:48,739 INFO  [StagemfcsellPage] Website opened 
+2019-04-26 17:43:50,448 INFO  [StagemfcsellPage] Selected City Name as Bangalore 
+2019-04-26 17:43:53,696 INFO  [StagemfcsellPage] Year Entered as : 2018 
+2019-04-26 17:43:55,950 INFO  [StagemfcsellPage] Make Entered as : ASTON MARTIN 
+2019-04-26 17:43:58,204 INFO  [StagemfcsellPage] Model Entered as : DB 11 
+2019-04-26 17:43:58,296 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-04-26 17:44:00,529 INFO  [StagemfcsellPage] Variant Entered as : EVOLUTION 
+2019-04-26 17:44:02,793 INFO  [StagemfcsellPage] Kilometers Entered as : less than 10,000 
+2019-04-26 17:44:05,107 INFO  [StagemfcsellPage] Selected City as : chennai 
+2019-04-26 17:44:05,196 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-04-26 17:44:07,305 INFO  [StagemfcsellPage] Entered Mobile is : 9742721634 
+2019-04-26 17:44:09,403 INFO  [StagemfcsellPage] Entered Full Name as : sunil 
+2019-04-26 17:44:11,549 INFO  [StagemfcsellPage] Entered Email ID as : test@gmail.com 
+2019-04-26 17:44:18,960 INFO  [StagemfcsellPage] Clicked on Submit Button 
+2019-04-26 17:44:19,350 INFO  [StagemfcsellPage] All snapshot's were saved in File Location E:\software\screenshot folder 
+2019-04-26 17:56:50,344 INFO  [StagemfcsellPage] Website opened 
+2019-04-26 17:56:51,057 INFO  [StagemfcsellPage] Selected City Name as Bangalore 
+2019-04-26 17:56:53,955 INFO  [StagemfcsellPage] Year Entered as : 2018 
+2019-04-26 17:56:56,213 INFO  [StagemfcsellPage] Make Entered as : ASTON MARTIN 
+2019-05-27 13:07:37,521 INFO  [StagemfcsellPage] Website opened 
+2019-05-27 13:07:39,093 INFO  [StagemfcsellPage] Selected City Name as Bangalore 
+2019-05-27 13:07:42,774 INFO  [StagemfcsellPage] Year Entered as : 2018 
+2019-05-27 13:07:45,152 INFO  [StagemfcsellPage] Make Entered as : ASTON MARTIN 
+2019-05-27 13:07:47,475 INFO  [StagemfcsellPage] Model Entered as : DB 11 
+2019-05-27 13:07:47,573 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-05-27 13:07:49,978 INFO  [StagemfcsellPage] Variant Entered as : EVOLUTION 
+2019-05-27 13:07:52,471 INFO  [StagemfcsellPage] Kilometers Entered as : less than 10,000 
+2019-05-27 13:07:55,072 INFO  [StagemfcsellPage] Selected City as : chennai 
+2019-05-27 13:07:55,222 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-05-27 13:07:57,442 INFO  [StagemfcsellPage] Entered Mobile is : 9742721634 
+2019-05-27 13:07:59,591 INFO  [StagemfcsellPage] Entered Full Name as : sunil 
+2019-05-27 13:08:01,884 INFO  [StagemfcsellPage] Entered Email ID as : test@gmail.com 
+2019-05-27 13:08:14,102 INFO  [StagemfcsellPage] Clicked on Submit Button 
+2019-05-27 13:08:14,612 INFO  [StagemfcsellPage] All snapshot's were saved in File Location E:\software\screenshot folder 
+2019-05-28 16:28:02,155 INFO  [StagemfcsellPage] Website opened 
+2019-05-28 16:28:32,205 INFO  [StagemfcsellPage] Website opened 
+2019-05-28 16:28:33,708 INFO  [StagemfcsellPage] Selected City Name as Bangalore 
+2019-05-28 16:28:37,235 INFO  [StagemfcsellPage] Year Entered as : 2018 
+2019-05-28 16:28:39,535 INFO  [StagemfcsellPage] Make Entered as : ASTON MARTIN 
+2019-05-28 16:28:41,735 INFO  [StagemfcsellPage] Model Entered as : DB 11 
+2019-05-28 16:28:42,590 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-05-28 16:28:44,811 INFO  [StagemfcsellPage] Variant Entered as : EVOLUTION 
+2019-05-28 16:28:47,095 INFO  [StagemfcsellPage] Kilometers Entered as : less than 10,000 
+2019-05-28 16:28:49,411 INFO  [StagemfcsellPage] Selected City as : chennai 
+2019-05-28 16:28:49,496 INFO  [StagemfcsellPage] Clicked on Next Button 
+2019-05-28 16:28:51,626 INFO  [StagemfcsellPage] Entered Mobile is : 9742721634 
+2019-05-28 16:28:53,720 INFO  [StagemfcsellPage] Entered Full Name as : sunil 
+2019-05-28 16:28:55,843 INFO  [StagemfcsellPage] Entered Email ID as : test@gmail.com 
+2019-05-28 16:29:01,564 INFO  [StagemfcsellPage] Clicked on Submit Button 
+2019-05-28 16:29:01,995 INFO  [StagemfcsellPage] All snapshot's were saved in File Location E:\software\screenshot folder 
+2019-05-28 16:29:02,545 INFO  [StagemfcsellPage] Test Result is saved in E:\software\DataDriven.xlsx 
+2019-05-28 16:29:02,548 INFO  [StagemfcsellPage] GOING TO NEXT LOOP AND ENTERING THE NEXT DATA GIVEN IN EXCEL SHEET. 
+2019-05-29 15:40:30,333 INFO  [StagemfcsellPage] navigated to URL 
+2019-05-29 15:40:31,677 INFO  [StagemfcsellPage] navigated to URL 
+2019-05-29 15:42:20,366 INFO  [StagemfcsellPage] navigated to URL 
+2019-05-29 15:42:29,388 INFO  [StagemfcsellPage] Selected City Name as Bangalore 
+2019-05-29 15:43:09,047 INFO  [StagemfcsellPage] navigated to URL 
+2019-05-29 15:43:59,399 INFO  [StagemfcsellPage] navigated to URL 
+2019-05-29 16:33:56,807 INFO  [StagemfcsellPage] navigated to URL 
+2019-05-29 17:17:22,066 INFO  [StagemfcsellPage] navigated to URL 
+2019-05-29 17:46:14,858 INFO  [StagemfcsellPage] navigated to URL 
+2019-06-18 15:51:48,566 INFO  [StagemfcsellPage] navigated to URL 
